@@ -15,7 +15,7 @@
     <!-- Forecast cards -->
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
-    <string name="later">Más adelante</string>
+    <string name="later">Pasado</string>
 
     <!-- Main activity headings -->
     <string name="wind">Viento</string>
