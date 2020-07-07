@@ -251,7 +251,7 @@ public class MainActivity extends BaseActivity implements LocationListener {
             editor.commit();
         }
     }
-
+    
     @Override
     protected void onDestroy() {
         super.onDestroy();
